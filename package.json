@@ -1,0 +1,18 @@
+{
+  "name": "atom-shell-screenshot",
+  "description": "take a screenshot in an existing atom-shell window",
+  "keywords": "atom-shell screenshots testing",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jameskyburz/atom-shell-screenshot"
+  },
+  "author": {
+    "name": "James Kyburz",
+    "email": "james.kyburz@gmail.com"
+  },
+  "main": "index.js",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "license": "MIT"
+}
