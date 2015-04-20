@@ -1,10 +1,10 @@
 {
-  "name": "atom-shell-screenshot",
-  "description": "take a screenshot in an existing atom-shell window",
-  "keywords": "atom-shell screenshots testing",
+  "name": "electron-screenshot",
+  "description": "take a screenshot in an existing electron window",
+  "keywords": "electron screenshots testing atom-shell",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jameskyburz/atom-shell-screenshot"
+    "url": "git://github.com/jameskyburz/electron-screenshot"
   },
   "author": {
     "name": "James Kyburz",
