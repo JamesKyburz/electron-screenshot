@@ -10,7 +10,7 @@ npm install electron-screenshot
 
 Use in an already existing atom-shell window
 
-for a standalone implementation see [atom-screenshot](https://github.com/FWeinb/node-atom-screenshot)
+for a standalone implementation see [electron-screenshot-service](https://github.com/FWeinb/electron-screenshot-service)
 
 ``` js
 var screenshot = require('electron-screenshot')
