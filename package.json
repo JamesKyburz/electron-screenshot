@@ -12,6 +12,11 @@
   },
   "main": "index.js",
   "version": "1.0.2",
-  "dependencies": {},
-  "license": "MIT"
+  "scripts": {
+    "prepublish": "standard"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "5.3.1"
+  }
 }
