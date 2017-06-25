@@ -1,5 +1,6 @@
 # electron-screenshot
 
+[![js-standard-style](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://github.com/feross/standard)
 [![Greenkeeper badge](https://badges.greenkeeper.io/JamesKyburz/electron-screenshot.svg)](https://greenkeeper.io/)
 
 Take screenshots in an electron window.
