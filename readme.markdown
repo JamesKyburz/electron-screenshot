@@ -1,5 +1,7 @@
 # electron-screenshot
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JamesKyburz/electron-screenshot.svg)](https://greenkeeper.io/)
+
 Take screenshots in an electron window.
 
 # Install
